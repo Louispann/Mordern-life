@@ -1,0 +1,51 @@
+Highlights include: 
+
+Handgun: Requires no less than one magazine in your stock to discharge. Left-snap to fire, right-snap to point down sights. Creating this thing is DISABLED BY DEFAULT IN THE CONFIG. Change config key "empowered handgun" to permit creating this thing in endurance mode. 
+
+Bike 
+
+Speedometer 
+
+Working mirror that can show your own appearance (Not viable with optifine shaders: use customer config to handicap it on the off chance that you are utilizing these. Config key="disableMirrorRendering"). 
+
+Working CCTV Screen that can show your CCTV Camera takes care of inside 50 squares. (Not viable with certain advance shaders: use customer config to impair it on the off chance that you are utilizing these. Config key="disableCCTVRendering". On the off chance that it works however it is flimsy or hazy, have a go at debilitating movement obscure in your shader settings.). Right-snap to go upwards through camera takes care of. Shift-right-snap to go descending through camera takes care of. 
+
+An advanced camera that can take photographs and print utilizing a printer 
+
+A trimming tool intended for chopping down trees (it chips away at crowds as well however it will debase rapidly) 
+
+Electric lamp 
+
+Easel and material for painting your own magnum opuses 
+
+Playable guitar and discretionary intensifier to add twisting 
+
+Playable chessboard 
+
+Computerized Alarm Clock which can show the current in-game time (may not show effectively with certain enhance shaders) 
+
+The cleared street which speeds up vehicles + street marker to paint stripes or shoulders 
+
+A fridge which can gradually change over water cans into ice 
+
+Garbage bin with limitless ability to erase things 
+
+Seed spreader that can consequently sow seeds kept into it 
+
+Select bed which two individuals can rest on simultaneously 
+
+Extractor: sideways container 
+
+Metal mesh: permits liquids/things/smoke to move through yet hinders crowds and players 
+
+Microwave for preparing one food thing rapidly 
+
+Oven, for cooking numerous things in the stove gradually 
+
+Turntable: pivots squares and crowds on top of it each time it gets a Redstone beat 
+
+Radiator: gradually eliminates snow and ice close by when turned on 
+
+Force transmitter/beneficiary: remote Redstone that deals with a for every channel premise, right-snap to change the current channel 
+
+Latrine: it's a latrine
